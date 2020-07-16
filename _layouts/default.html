@@ -21,10 +21,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        {% if site.logo2 %}
-          <img src="{{site.logo2 | relative_url}}" alt="Logo" />
-        {% endif %}
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -34,6 +30,11 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.logo2 %}
+          <p>SKILLS</p>
+          <img src="{{site.logo2 | relative_url}}" alt="Logo" />
+        {% endif %}
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
