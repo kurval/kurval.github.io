@@ -1,8 +1,6 @@
 title: Valtteri Kurkela # your name (or website title) here
 logo: "/images/new_selfie.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  Programming student at Hive Helsinki.
   
 logo2: "/images/skills.png?raw=true" # additional photo
 theme: jekyll-theme-minimal
