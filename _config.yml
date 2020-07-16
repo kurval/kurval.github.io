@@ -3,7 +3,7 @@ logo: "/images/new_selfie.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Skills
-  logo2: "/images/skills.png?raw=true" # additional photo
+logo2: "/images/skills.png?raw=true" # additional photo
   <br><br>
   <a href="https://www.linkedin.com/in/valtterikurkela/">View My LinkedIn Profile</a> 
   <br>
