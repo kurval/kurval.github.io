@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/valtterikurkela/">View My LinkedIn Profile</a> 
   <br>
-  <a <img src="/images/skills.png" /></a>
+  <a <img src="/images/skills.png" width="100" height="100" /></a>
 theme: jekyll-theme-minimal
 google_analytics: UA-168211411-1 # your Google Analytics tracking ID here
 
