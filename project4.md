@@ -58,4 +58,4 @@ OR you can just paste this on your terminal: git clone https://github.com/kurval
 For more details view my github account: 
 <a href="https://github.com/kurval/42-fillit?raw=true" target="_blank">GitHub Source</a> 
   
-**Back to [frontpage](https://kurval.github.io/)**
+**Back to [front page](https://kurval.github.io/)**
