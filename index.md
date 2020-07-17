@@ -4,7 +4,7 @@
 
 ## Personal projects 
 
-### [Covid-19 Data Explorer](/project1)  
+### [Covid-19 Data Explorer](/project1)
 Languages: Python  
 
 <a href="/project1">
@@ -15,7 +15,7 @@ Languages: Python
 
 ## School 42 projects
 
-### [42-lem_in](/project2)  
+### [42-lem_in](/project2)
 Languages: C  
 
 <a href="/project2">
@@ -23,7 +23,7 @@ Languages: C
 </a>  
 
 ---
-### [42-push_swap](/project3)  
+### [42-push_swap](/project3)
 Languages: C  
 
 <a href="/project3">
@@ -32,7 +32,7 @@ Languages: C
 
 ---
 
-### [42-fillit](/project4)  
+### [42-fillit](/project4)
 Languages: C  
 
 <a href="/project4">
