@@ -7,7 +7,7 @@
 ### [Covid-19 Data Explorer](/project1)
 
 <a href="/project1">
-   <img alt="Test" src="images/dummy_thumbnail.jpg?raw=true">
+   <img alt="Test" src="https://media.giphy.com/media/JSpM4vjH4h88MrLms3/giphy.gif?raw=true">
 </a>  
 
 ---
