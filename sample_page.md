@@ -1,31 +1,26 @@
-## This can be your internal website page / project page
+# Covid-19 Data Explorer
+App is live at: https://www.covid19dataexplorer.com/
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# About
+Covid-19 Data Explorer -app allows user to compare and explore different corona statistics from over 200 countries.
+This python based project was created with Streamlit’s open-source app framework.
+Using Alrair library for building interactive charts that are displayd with Vega-Lite. Data is **updated daily**.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+# Statistics
+**These statistics includes:**
+* Total confirmed cases
+* Total deaths
+* Total cases per million  
+* Total deaths per million
+* New confirmed cases
+* New deaths
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+## Using:
+* python3
+* streamlit, altair, pandas
+* data.world's REST API
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Data is originally sourced from: https://ourworldindata.org/coronavirus-source-data  
+More information about this dataset: https://github.com/owid/covid-19-data/tree/master/public/data
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Source](https://github.com/kurval/COVID-19-Data-Explorer).
