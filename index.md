@@ -24,7 +24,7 @@
 ### [42-push_swap](/project3)  
 
 <a href="/project3">
-   <img alt="Gif" src="https://j.gifs.com/NL26Bm.gif?raw=true">
+   <img alt="Gif" src="https://media.giphy.com/media/Z9KQXYnxTpWIMArgTP/giphy.gif?raw=true">
 </a>  
 
 ---
