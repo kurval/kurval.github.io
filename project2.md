@@ -122,4 +122,4 @@ https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
 For more details view my github account: 
 <a href="https://github.com/kurval/42-lem_in?raw=true" target="_blank">GitHub Source</a>
   
-**Back to [frontpage](https://kurval.github.io/)**
+**Back to [front page](https://kurval.github.io/)**
