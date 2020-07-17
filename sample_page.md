@@ -1,5 +1,5 @@
 # Covid-19 Data Explorer
-App is live at: https://www.covid19dataexplorer.com/
+App is live at: [covid19dataexplorer.com](https://www.covid19dataexplorer.com/)
 
 # About
 Covid-19 Data Explorer -app allows user to compare and explore different corona statistics from over 200 countries.
@@ -20,7 +20,9 @@ Using Alrair library for building interactive charts that are displayd with Vega
 * streamlit, altair, pandas
 * data.world's REST API
 
-Data is originally sourced from: https://ourworldindata.org/coronavirus-source-data  
-More information about this dataset: https://github.com/owid/covid-19-data/tree/master/public/data
+Data is originally sourced from: [ourworldindata.org](https://ourworldindata.org/coronavirus-source-data)  
+More information about this dataset: [github.com/owid/covid-19-data](https://github.com/owid/covid-19-data/tree/master/public/data)
 
-For more details see [GitHub Source](https://github.com/kurval/COVID-19-Data-Explorer).
+For more details see [GitHub Source](https://github.com/kurval/COVID-19-Data-Explorer).  
+  
+**Back to [frontpage](https://kurval.github.io/)**
