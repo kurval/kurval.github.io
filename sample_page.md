@@ -21,6 +21,7 @@ Using Alrair library for building interactive charts that are displayd with Vega
 * data.world's REST API
 
 Data is originally sourced from: [ourworldindata.org](https://ourworldindata.org/coronavirus-source-data)  
+  
 More information about this dataset: [github.com/owid/covid-19-data](https://github.com/owid/covid-19-data/tree/master/public/data)
 
 For more details see [GitHub Source](https://github.com/kurval/COVID-19-Data-Explorer).  
