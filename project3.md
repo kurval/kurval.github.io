@@ -60,11 +60,11 @@ Run **make** from terminal and use command:
 
 ``./push_swap 1 5 2 4 3 | ./checker -v 1 5 2 4 3``    
 
-![example](images/screenshot.png)
+![example](images/screenshot.png)  
+  
+<a href="https://eternallyconfuzzled.com/sorting-c-introduction-to-the-automatic-ordering-of-data/?raw=true" target="_blank">More information about sorting algorithms</a>  
 
-*More information about sorting algorithms:*  
-https://eternallyconfuzzled.com/sorting-c-introduction-to-the-automatic-ordering-of-data/  
-
-For more details see [GitHub Source](https://github.com/kurval/42-push_swap).  
+For more details view my github account: 
+<a href="https://github.com/kurval/42-push_swap?raw=true" target="_blank">GitHub Source</a> 
   
 **Back to [frontpage](https://kurval.github.io/)**
