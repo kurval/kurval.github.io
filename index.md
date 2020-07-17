@@ -33,7 +33,6 @@
 
 <a href="/project4">
    <img alt="Cubes" src="images/cubes.png?raw=true">
-   <img alt="Gif" src="https://j.gifs.com/4Q3L2J.gif?raw=true">
 </a>  
 
 ---
