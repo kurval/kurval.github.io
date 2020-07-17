@@ -11,16 +11,16 @@
 
 ### School 42 projects
 
-[Project 2 Title](/project2)
+[42-lem_in](/project2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/project3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[42-push_swap](/project3)
+<img src="https://j.gifs.com/NL26Bm.gif?raw=true"/>
 
 ---
 
-[Project 4 Title](/project4)
+[42-fillit](/project4)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
