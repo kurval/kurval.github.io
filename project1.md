@@ -1,6 +1,6 @@
 # Covid-19 Data Explorer
-App is live at: [covid19dataexplorer.com](https://www.covid19dataexplorer.com/)
-<a href="https://www.covid19dataexplorer.com/?raw=true" target="_blank">Test</a>
+App is live at: 
+<a href="https://www.covid19dataexplorer.com/?raw=true" target="_blank">covid19dataexplorer.com</a>
 
 # About
 Covid-19 Data Explorer -app allows user to compare and explore different corona statistics from over 200 countries.
