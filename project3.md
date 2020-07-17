@@ -62,7 +62,8 @@ Run **make** from terminal and use command:
 
 ![example](images/screenshot.png)  
   
-<a href="https://eternallyconfuzzled.com/sorting-c-introduction-to-the-automatic-ordering-of-data/?raw=true" target="_blank">More information about sorting algorithms</a>  
+More information about sorting algorithms:  
+<a href="https://eternallyconfuzzled.com/sorting-c-introduction-to-the-automatic-ordering-of-data/?raw=true" target="_blank">https://eternallyconfuzzled.com/sorting-c-introduction-to-the-automatic-ordering-of-data</a>  
 
 For more details view my github account: 
 <a href="https://github.com/kurval/42-push_swap?raw=true" target="_blank">GitHub Source</a> 
