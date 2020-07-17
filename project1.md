@@ -23,8 +23,10 @@ Using Alrair library for building interactive charts that are displayd with Vega
 
 Data is originally sourced from: [ourworldindata.org](https://ourworldindata.org/coronavirus-source-data)  
   
-More information about this dataset: [github.com/owid/covid-19-data](https://github.com/owid/covid-19-data/tree/master/public/data)
+More information about this dataset: 
+<a href="https://github.com/owid/covid-19-data/tree/master/public/data?raw=true" target="_blank">github.com/owid/covid-19-data</a>
 
-For more details see [GitHub Source](https://github.com/kurval/COVID-19-Data-Explorer).  
+For more details see my github account:
+<a href="https://github.com/kurval/COVID-19-Data-Explorer?raw=true" target="_blank">GitHub Source</a>
   
 **Back to [frontpage](https://kurval.github.io/)**
