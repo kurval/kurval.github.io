@@ -30,4 +30,4 @@ More information about this dataset:
 For more details view my github account:
 <a href="https://github.com/kurval/COVID-19-Data-Explorer?raw=true" target="_blank">GitHub Source</a>
   
-**Back to [frontpage](https://kurval.github.io/)**
+**Back to [front page](https://kurval.github.io/)**
