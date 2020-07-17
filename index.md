@@ -35,8 +35,10 @@
    <img alt="Cubes" src="images/cubes.png?raw=true">
 </a>  
 
+
 ---
 
-
+Contact me on 
+<a href="https://www.linkedin.com/in/valtterikurkela/?raw=true" target="_blank">LinkedIn</a>
 
 ---
