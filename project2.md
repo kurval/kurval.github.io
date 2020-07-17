@@ -119,6 +119,7 @@ https://www.tutorialspoint.com/data_structures_algorithms/hash_table_program_in_
 https://www.youtube.com/watch?v=RppuJYwlcI8  
 https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/  
 
-For more details see [GitHub Source](https://github.com/kurval/42-lem_in).  
+For more details view my github account: 
+<a href="https://github.com/kurval/42-lem_in?raw=true" target="_blank">GitHub Source</a>
   
 **Back to [frontpage](https://kurval.github.io/)**
