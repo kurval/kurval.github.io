@@ -4,7 +4,8 @@
 
 ## Personal projects 
 
-### [Covid-19 Data Explorer](/project1)
+### [Covid-19 Data Explorer](/project1)  
+Languages: Python  
 
 <a href="/project1">
    <img alt="Test" src="https://media.giphy.com/media/JSpM4vjH4h88MrLms3/giphy.gif?raw=true">
@@ -15,6 +16,7 @@
 ## School 42 projects
 
 ### [42-lem_in](/project2)  
+Languages: C  
 
 <a href="/project2">
    <img alt="flows" src="images/flows.png?raw=true">
@@ -22,6 +24,7 @@
 
 ---
 ### [42-push_swap](/project3)  
+Languages: C  
 
 <a href="/project3">
    <img alt="Gif" src="https://media.giphy.com/media/Z9KQXYnxTpWIMArgTP/giphy.gif?raw=true">
@@ -30,6 +33,7 @@
 ---
 
 ### [42-fillit](/project4)  
+Languages: C  
 
 <a href="/project4">
    <img alt="Cubes" src="images/cubes.png?raw=true">
