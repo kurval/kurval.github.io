@@ -68,4 +68,4 @@ More information about sorting algorithms:
 For more details view my github account: 
 <a href="https://github.com/kurval/42-push_swap?raw=true" target="_blank">GitHub Source</a> 
   
-**Back to [frontpage](https://kurval.github.io/)**
+**Back to [front page](https://kurval.github.io/)**
