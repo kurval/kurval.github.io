@@ -58,7 +58,7 @@ Run **make** from terminal and use command:
 
 ``./push_swap 1 5 2 4 3 | ./checker -v 1 5 2 4 3``    
 
-![example](screenshot.png)
+![example](images/screenshot.png)
 
 *More information about sorting algorithms:*  
 https://eternallyconfuzzled.com/sorting-c-introduction-to-the-automatic-ordering-of-data/  
