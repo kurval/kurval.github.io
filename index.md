@@ -5,6 +5,9 @@
 ### Personal projects 
 
 [Covid-19 Data Explorer](/project1)  
+<a href="/project1">
+   <img alt="Test" src="images/dummy_thumbnail.jpg?raw=true">
+</a>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
