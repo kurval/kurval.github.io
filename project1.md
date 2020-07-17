@@ -21,12 +21,13 @@ Using Alrair library for building interactive charts that are displayd with Vega
 * streamlit, altair, pandas
 * data.world's REST API
 
-Data is originally sourced from: [ourworldindata.org](https://ourworldindata.org/coronavirus-source-data)  
+Data is originally sourced from: 
+<a href="https://ourworldindata.org/coronavirus-source-data?raw=true" target="_blank">ourworldindata.org</a>
   
 More information about this dataset: 
 <a href="https://github.com/owid/covid-19-data/tree/master/public/data?raw=true" target="_blank">github.com/owid/covid-19-data</a>
 
-For more details see my github account:
+For more details view my github account:
 <a href="https://github.com/kurval/COVID-19-Data-Explorer?raw=true" target="_blank">GitHub Source</a>
   
 **Back to [frontpage](https://kurval.github.io/)**
