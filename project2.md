@@ -85,7 +85,7 @@ I stored rest of the input data in linked lists (rooms, links, map, paths etc).
 
 As always error management must be flawless. This means that the input is valid and there must be enough data to process normally. So I have to check that input comes in right order ants->rooms->links and everything is in right format. If not my program show specific error message and also the line where error occurs.
 
-![error](/img/error.png)
+![error](/images/error.png)
 
 ## Algorithm
 
@@ -95,7 +95,7 @@ I have also defined weight for every vertex wich means the distance from the sta
   
 If I run my program with the graph below after first iterations (4 ants), I will use 6 moves. After second iterations I need to use only 5 moves.
 
-![flow](/img/flow.png)
+![flow](/images/flow.png)
 
 ## Bonuses
 
@@ -113,7 +113,7 @@ git clone https://github.com/kurval/42-lem_in.git lem_in && cd lem_in && make &&
 
 ## Example
 
-![example](/img/print_screen.png)
+![example](/images/print_screen.png)
 
 ## Sources
 https://medium.com/tebs-lab/types-of-graphs-7f3891303ea8  
