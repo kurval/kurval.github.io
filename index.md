@@ -15,7 +15,7 @@ This python based project was created with Streamlit’s open-source app framewo
 
 ---
 
-## School 42 projects
+## Hive projects
 
 ### [42-COREWAR](/project5) (C) Group Project  
 This project involves creating a virtual arena, and having simplistic-language programs fight each other.
