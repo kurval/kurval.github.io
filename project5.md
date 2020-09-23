@@ -1,6 +1,7 @@
 # Corewar
 
 ![vm](corewar.gif)  
+*```The virtual machine visualizer (using ncurses library)```*
 
 ## Description  
 COREWAR is a 1984 programming game created by D. G. Jones and A. K. Dewdney in which two or more battle programs (called "warriors") compete for control of a virtual computer. These battle programs are written in an abstract assembly language called Redcode.  
@@ -48,6 +49,10 @@ It offers various functions, all of which will be useful for the battle of the c
 **-l** : For each valid execution of the live instruction, the machine display: A process shows that player X (champion_name) is alive.
 
 **-v** : A graphic interface for the virtual machine using nCurses.  
+
+## Compiling  
+You can clone this repository and compile both of the programs by running following command inside of your terminal:  
+```git clone https://github.com/kurval/Corewar.git corewar && cd corewar && make```  
 
 ## Contributors:  
 [@anntuomi](https://github.com/anntuomi) : assembler, test scripts  
