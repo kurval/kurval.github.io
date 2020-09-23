@@ -10,12 +10,21 @@ Here are some of the problems I have solved in my free time and also during my s
 This python based project was created with Streamlit’s open-source app framework
 
 <a href="/project1">
-   <img alt="Test" src="https://media.giphy.com/media/JSpM4vjH4h88MrLms3/giphy.gif?raw=true">
+   <img alt="covid_gif" src="https://media.giphy.com/media/JSpM4vjH4h88MrLms3/giphy.gif?raw=true">
 </a>  
 
 ---
 
 ## School 42 projects
+
+### [42-COREWAR](/project5) (C) Group Project  
+This project involves creating a virtual arena, and having simplistic-language programs fight each other.
+
+<a href="/project5">
+   <img alt="corewar_gif" src="corewar.gif">
+</a>  
+
+---
 
 ### [42-lem_in](/project2) (C)  
 Graph traversal algorithm
@@ -29,7 +38,7 @@ Graph traversal algorithm
 Sorting algorithm
 
 <a href="/project3">
-   <img alt="Gif" src="https://media.giphy.com/media/Z9KQXYnxTpWIMArgTP/giphy.gif?raw=true">
+   <img alt="p_s_gif" src="https://media.giphy.com/media/Z9KQXYnxTpWIMArgTP/giphy.gif?raw=true">
 </a>  
 
 ---
@@ -38,7 +47,7 @@ Sorting algorithm
 Space optimization algorithm
 
 <a href="/project4">
-   <img alt="Cubes" src="images/cubes.png?raw=true">
+   <img alt="cubes" src="images/cubes.png?raw=true">
 </a>  
 
 
