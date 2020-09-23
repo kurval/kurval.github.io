@@ -55,4 +55,7 @@ It offers various functions, all of which will be useful for the battle of the c
 [@Konjuhaj](https://github.com/Konjuhaj) : vm parsing, deassembler  
 [@kurval](https://github.com/kurval) : vm execution, operations, visualizer  
 
+For more details view my github account: 
+<a href="https://github.com/kurval/Corewar?raw=true" target="_blank">GitHub Source</a>  
+
 **Back to [front page](https://kurval.github.io/)**
