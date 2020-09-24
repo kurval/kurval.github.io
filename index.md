@@ -7,7 +7,7 @@ Here are some of the problems I have solved in my free time and also during my s
 ## Personal projects 
 
 ### [Covid-19 Data Explorer](/project1) (Python)  
-This python based project was created with Streamlit’s open-source app framework
+This python based project was created with Streamlit’s open-source app framework.
 
 <a href="/project1">
    <img alt="covid_gif" src="https://media.giphy.com/media/JSpM4vjH4h88MrLms3/giphy.gif?raw=true">
