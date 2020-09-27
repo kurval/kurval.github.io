@@ -63,9 +63,8 @@ You can clone this repository and compile both of the programs by running follow
 You can view our manpage by running: ```make man``` and set environment variable ```export MANPATH=./sources/man```  
 
 Now you can view asm and corewar manpages:  
-```man asm```  
-or  
-```man corewar```  
+```man asm``` or ```man corewar```  
+
 ![corewar_man](man.png)  
 
 ## Contributors:  
