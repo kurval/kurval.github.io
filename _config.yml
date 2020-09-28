@@ -1,9 +1,8 @@
 title: Valtteri Kurkela # your name (or website title) here
 logo: "/images/new_selfie.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
   <a href="https://kurval.github.io/online-cv/" target="_blank"">View My Resume</a> 
-  <br>
+  <br><br>
   <a href="https://github.com/kurval">
     <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
