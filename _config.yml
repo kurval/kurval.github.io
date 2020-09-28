@@ -5,13 +5,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://kurval.github.io/online-cv/" target="_blank"">View My Resume</a> 
   <br>
   <a href="https://github.com/kurval">
-    <img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://www.linkedin.com/in/valtterikurkela/">
-    <img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/KurkelaValtteri">
-    <img align="left" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 logo2: "/images/skills.png?raw=true" # additional photo
 theme: jekyll-theme-minimal
