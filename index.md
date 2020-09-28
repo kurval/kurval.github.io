@@ -62,5 +62,5 @@ Space optimization algorithm
 <a href="https://twitter.com/KurkelaValtteri"  target="_blank">
    <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+Don't be afraid to follow
 ---
