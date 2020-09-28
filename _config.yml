@@ -5,13 +5,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://kurval.github.io/online-cv/" target="_blank"">View My Resume</a> 
   <br>
   <a href="https://github.com/kurval">
-    <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="Github" title="Github" width="25" height="25" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://www.linkedin.com/in/valtterikurkela/">
-    <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="25" height="25" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/KurkelaValtteri">
-    <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 logo2: "/images/skills.png?raw=true" # additional photo
 theme: jekyll-theme-minimal
