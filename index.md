@@ -53,7 +53,14 @@ Space optimization algorithm
 
 ---
 
-Contact me on 
-<a href="https://www.linkedin.com/in/valtterikurkela/?raw=true" target="_blank">LinkedIn</a>
+<a href="https://github.com/kurval"  target="_blank">
+   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
+   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/KurkelaValtteri"  target="_blank">
+   <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 ---
