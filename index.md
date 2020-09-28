@@ -53,7 +53,7 @@ Space optimization algorithm
 
 ---
 
-<h2>FOLLOW: 
+<h2>FOLLOW:
 <a href="https://github.com/kurval"  target="_blank">
    <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
