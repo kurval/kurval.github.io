@@ -6,7 +6,8 @@ Here are some of the problems I have solved in my free time and also during my s
 
 ## Personal projects 
 
-### [Covid-19 Data Explorer](/project1) (Python)  
+### [Covid-19 Data Explorer](/project1) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
 This python based project was created with Streamlit’s open-source app framework.
 
 <a href="/project1">
@@ -17,7 +18,8 @@ This python based project was created with Streamlit’s open-source app framewo
 
 ## Hive projects
 
-### [42-COREWAR](/project5) (C, Assembly) Group Project  
+### [42-COREWAR](/project5) Group Project 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
 This project involves creating a virtual arena, and having battle programs written in an abstract assembly language fight each other.
 
 <a href="/project5">
@@ -26,7 +28,8 @@ This project involves creating a virtual arena, and having battle programs writt
 
 ---
 
-### [42-lem_in](/project2) (C)  
+### [42-lem_in](/project2) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
 Graph traversal algorithm
 
 <a href="/project2">
@@ -34,7 +37,8 @@ Graph traversal algorithm
 </a>  
 
 ---
-### [42-push_swap](/project3) (C)  
+### [42-push_swap](/project3) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
 Sorting algorithm
 
 <a href="/project3">
@@ -43,7 +47,8 @@ Sorting algorithm
 
 ---
 
-### [42-fillit](/project4) (C)  
+### [42-fillit](/project4) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
 Space optimization algorithm
 
 <a href="/project4">
