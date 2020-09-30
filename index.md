@@ -1,6 +1,6 @@
 # Portfolio
 
-<p>
+<p style="color:black;">
 <samp>
 Hey 👋 I'm Valtteri!<br><br>
 I'm currently studying AI & algorithms at Hive Helsinki. Here are some of the problems I have solved in my free time and also during my studies, including algorithms, data visualization, puzzles.. 
