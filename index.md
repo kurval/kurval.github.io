@@ -1,6 +1,6 @@
 # Portfolio
 
-Here are some of the problems I have solved in my free time and also during my studies at Hive Helsinki.  
+Here are some of the problems I have solved in my free time and also during my studies at Hive Helsinki, including algorithms, data visualization, puzzles..  
 
 ---
 
