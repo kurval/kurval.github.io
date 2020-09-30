@@ -21,6 +21,18 @@ Using Alrair library for building interactive charts that are displayd with Vega
 * streamlit, altair, pandas
 * data.world's REST API
 
+# Running with Docker
+You can run this app with Dockerfile   
+
+Build the container:  
+```docker build -t st-app .```  
+
+And run it:  
+```docker run -p 8501:8501 --name st-app -it --rm st-app```  
+
+Container is now available on:  
+```http://<your docker-machine ip>:8501/```  
+
 Data is originally sourced from: 
 <a href="https://ourworldindata.org/coronavirus-source-data?raw=true" target="_blank">ourworldindata.org</a>
   
