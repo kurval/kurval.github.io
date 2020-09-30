@@ -7,7 +7,7 @@ Here are some of the problems I have solved in my free time and also during my s
 ## Personal projects 
 
 ### [Covid-19 Data Explorer](/project1) 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+<img src="https://img.icons8.com/color/48/000000/python.png" width="32" height="32" title="python"/>  
 This python based project was created with Streamlit’s open-source app framework.
 
 <a href="/project1">
@@ -19,7 +19,7 @@ This python based project was created with Streamlit’s open-source app framewo
 ## Hive projects
 
 ### [42-COREWAR](/project5) Group Project 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>  
 This project involves creating a virtual arena, and having battle programs written in an abstract assembly language fight each other.
 
 <a href="/project5">
@@ -29,7 +29,7 @@ This project involves creating a virtual arena, and having battle programs writt
 ---
 
 ### [42-lem_in](/project2) 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>   
 Graph traversal algorithm
 
 <a href="/project2">
@@ -38,7 +38,7 @@ Graph traversal algorithm
 
 ---
 ### [42-push_swap](/project3) 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>  
 Sorting algorithm
 
 <a href="/project3">
@@ -48,7 +48,7 @@ Sorting algorithm
 ---
 
 ### [42-fillit](/project4) 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>  
 Space optimization algorithm
 
 <a href="/project4">
