@@ -73,7 +73,7 @@ Space optimization algorithm
 ---
 
 <p align="center">
-   <a href="https://github.com/kurval"  target="_blank">
+   <a href="https://www.hive.fi/en/"  target="_blank">
       <img  height="100" width="300" src="./hive_banner.png" />
    </a>
 </p>
