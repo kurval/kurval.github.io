@@ -18,7 +18,7 @@ This python based project was created with Streamlit’s open-source app framewo
 
 ## Hive projects
 
-### [42-COREWAR](/project5) Group Project 
+### [42-corewar](/project5) Group Project 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>  
 This project involves creating a virtual arena, and having battle programs written in an abstract assembly language fight each other.
 
