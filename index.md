@@ -58,7 +58,7 @@ Space optimization algorithm
 
 ---
 
-<h2 style="color:black;">FOLLOW:
+<h2 align="center" style="color:black;">FOLLOW:
 <a href="https://github.com/kurval"  target="_blank">
    <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -72,7 +72,8 @@ Space optimization algorithm
 
 ---
 
-<a href="https://github.com/kurval"  target="_blank">
-   <img height="100" width="300" src="./hive_banner.png" />
-</a>
-
+<p align="center">
+   <a href="https://github.com/kurval"  target="_blank">
+      <img  height="100" width="300" src="./hive_banner.png" />
+   </a>
+</p>
