@@ -4,16 +4,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a style="font-size:16px" href="https://kurval.github.io/online-cv/" target="_blank">View My Resume</a> 
   <br><br>
   <a href="https://github.com/kurval"  target="_blank">
-    <img alt="Github" style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img title="Github" style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
-    <img alt="LinkedIn" style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img title="LinkedIn" style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/KurkelaValtteri"  target="_blank">
-    <img alt="Twitter" style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img title="Twitter" style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="mailto:vkurkela@student.hive.fi">
-    <img alt="e-mail" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />
+    <img title="e-mail" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />
   </a>
 logo2: "/images/skills.png?raw=true" # additional photo
 theme: jekyll-theme-minimal
