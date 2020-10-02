@@ -65,7 +65,7 @@ Space optimization algorithm
 
 <h2 align="center" style="color:black;">FOLLOW:  
 <a href="https://github.com/kurval"  target="_blank">
-   <img style="padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+   <img style="padding-left:10px; padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
    <img style="padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
