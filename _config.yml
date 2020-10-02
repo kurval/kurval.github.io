@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <img style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://twitter.com/KurkelaValtteri"  target="_blank">
-    <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="mailto:vkurkela@student.hive.fi">
     <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />
