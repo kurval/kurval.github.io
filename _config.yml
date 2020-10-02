@@ -3,16 +3,16 @@ logo: "/images/new_selfie.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a style="font-size:16px" href="https://kurval.github.io/online-cv/" target="_blank">View My Resume</a> 
   <br><br>
-  <a href="https://github.com/kurval"  target="_blank">
+  <a alt="Github" href="https://github.com/kurval"  target="_blank">
     <img style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
+  <a alt="LinkedIn" href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
     <img style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/KurkelaValtteri"  target="_blank">
+  <a alt="Twitter" href="https://twitter.com/KurkelaValtteri"  target="_blank">
     <img style="padding-right:10px;" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="mailto:vkurkela@student.hive.fi">
+  <a alt="e-mail" href="mailto:vkurkela@student.hive.fi">
     <img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />
   </a>
 logo2: "/images/skills.png?raw=true" # additional photo
