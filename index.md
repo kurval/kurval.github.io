@@ -64,24 +64,15 @@ Space optimization algorithm
 ---
 
 <h2 align="center" style="color:black;">FOLLOW:  
-<div>
    <a href="https://github.com/kurval"  target="_blank">
       <img style="padding-left:10px; padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-   </a><br>
-   <p style="font-size:10px; display:inline;">Github</p>
-</div>
-<div>
+   </a>
    <a href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
       <img style="padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-   </a><br>
-   <p style="font-size:10px; display:inline;">LinkedIn</p>
-</div>
-<div>
+   </a>
    <a href="https://twitter.com/KurkelaValtteri"  target="_blank">
       <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-   </a><br>
-   <p style="font-size:10px; display:inline;">Twitter</p>
-   </div>
+   </a>
 </h2>
 
 ---
