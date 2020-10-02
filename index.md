@@ -65,13 +65,13 @@ Space optimization algorithm
 
 <h2 align="center" style="color:black;">FOLLOW:  
    <a href="https://github.com/kurval"  target="_blank">
-      <img alt="Github" style="padding-left:10px; padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+      <img title=="Github" style="padding-left:10px; padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
    </a>
    <a href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
-      <img alt="LinkedIn" style="padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+      <img title=="LinkedIn" style="padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a>
    <a href="https://twitter.com/KurkelaValtteri"  target="_blank">
-      <img alt="Twitter" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+      <img title=="Twitter" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
    </a>
 </h2>
 
