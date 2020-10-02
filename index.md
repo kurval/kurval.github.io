@@ -64,13 +64,13 @@ Space optimization algorithm
 ---
 
 <h2 align="center" style="color:black;">FOLLOW:  
-   <a href="https://github.com/kurval"  target="_blank">
+   <a alt="Github" href="https://github.com/kurval"  target="_blank">
       <img style="padding-left:10px; padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
    </a>
-   <a href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
+   <a alt="LinkedIn" href="https://www.linkedin.com/in/valtterikurkela/"  target="_blank">
       <img style="padding-right:10px;" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a>
-   <a href="https://twitter.com/KurkelaValtteri"  target="_blank">
+   <a alt="Twitter" href="https://twitter.com/KurkelaValtteri"  target="_blank">
       <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
    </a>
 </h2>
