@@ -18,7 +18,7 @@ It offers various functions, all of which will be useful for the battle of the c
 The game ends when all the processes are dead. The winner is the last player
 reported to be “alive”.  
 
-![winner](winner.png)
+![winner](/images/winner.png)
 
 ## Usage
 ### Assembler:  
@@ -65,7 +65,7 @@ You can view our manpage by running: ```make man``` and set environment variable
 Now you can view asm and corewar manpages:  
 ```man asm``` or ```man corewar```  
 
-![corewar_man](man.png)  
+![corewar_man](/images/man.png)  
 
 ## Contributors:  
 [@anntuomi](https://github.com/anntuomi) : assembler, test scripts  
