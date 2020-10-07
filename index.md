@@ -28,7 +28,7 @@ This python based project was created with Streamlit’s open-source app framewo
 This project involves creating a virtual arena, and having battle programs written in an abstract assembly language fight each other.
 
 <a href="/project5">
-   <img alt="corewar_gif" src="corewar.gif">
+   <img alt="corewar_gif" src="/images/corewar.gif">
 </a>  
 
 ---
