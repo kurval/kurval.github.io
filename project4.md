@@ -55,8 +55,8 @@ BBBB
 ```
 OR you can just paste this on your terminal: git clone https://github.com/kurval/42-fillit.git fillit && cd fillit && make && ./fillit tetriminos.txt  
   
-For more details view my github account: 
-<a href="https://github.com/kurval/42-fillit?raw=true" target="_blank">GitHub Source</a> 
+For more details view my  
+<a href="https://github.com/kurval/42-fillit?raw=true" target="_blank">GitHub</a> 
   
 <p>
 <a href="https://kurval.github.io/" title="frontpage" class="text-decoration-none">
