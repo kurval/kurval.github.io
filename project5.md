@@ -73,7 +73,7 @@ Now you can view asm and corewar manpages:
 [@Konjuhaj](https://github.com/Konjuhaj) : vm parsing, deassembler  
 [@kurval](https://github.com/kurval) : vm execution, operations, visualizer  
 
-For more details view my  
+For more details view my 
 <a href="https://github.com/kurval/Corewar?raw=true" target="_blank">GitHub</a>  
 
 <p>
