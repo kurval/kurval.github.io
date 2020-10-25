@@ -18,7 +18,7 @@ I'm currently studying AI & algorithms at Hive Helsinki. Here are some of the pr
    <img src="https://img.icons8.com/color/48/000000/travis-ci.png" width="32" height="32" title="travis-ci"/>
 </div>
 
-This python based project was created with Streamlit’s open-source app framework.  
+This python based project was created with Streamlit’s open-source app framework. 
 Also including testautomation with Selenium & Travis CI.  
 
 <a href="/project1">
