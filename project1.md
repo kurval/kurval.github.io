@@ -39,8 +39,8 @@ Data is originally sourced from:
 More information about this dataset: 
 <a href="https://github.com/owid/covid-19-data/tree/master/public/data?raw=true" target="_blank">github.com/owid/covid-19-data</a>
 
-For more details view my github account:
-<a href="https://github.com/kurval/COVID-19-Data-Explorer?raw=true" target="_blank">GitHub Source</a>
+For more details view my 
+<a href="https://github.com/kurval/COVID-19-Data-Explorer?raw=true" target="_blank">GitHub</a>
 
 <p>
 <a href="https://kurval.github.io/" title="frontpage" class="text-decoration-none">
