@@ -15,6 +15,7 @@ I'm currently studying AI & algorithms at Hive Helsinki. Here are some of the pr
 <div>
    <img src="https://img.icons8.com/color/48/000000/python.png" width="32" height="32" title="python"/>
    <img src="https://img.icons8.com/color/48/000000/selenium.png" width="32" height="32" title="selenium"/>
+   <img src="https://img.icons8.com/color/48/000000/travis-ci.png" width="32" height="32" title="travis-ci"/>
 </div>
 
 This python based project was created with Streamlit’s open-source app framework.
