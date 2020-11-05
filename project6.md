@@ -1,6 +1,6 @@
 # 42-FdF
 
-![./images/preview_gif](preview_fdf.gif)  
+![preview_gif](/images/preview_fdf.gif)  
 *Visualizing “iron wire” meshing in 3D*
 
 Using graphic library: miniLibX  
