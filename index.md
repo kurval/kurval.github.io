@@ -39,6 +39,16 @@ This project involves creating a virtual arena, and having battle programs writt
 
 ---
 
+### [42-Fdf](/project6)  
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>  
+This project is about creating a simplified graphic 3D representation of a relief landscape using Bresenham's line algorithm.    
+
+<a href="/project6">
+   <img alt="corewar_gif" src="/images/preview_fdf.gif">
+</a>  
+
+---
+
 ### [42-lem_in](/project2) 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>   
 Graph traversal algorithm project using Edmonds-Karp's Maximum Flow.  
