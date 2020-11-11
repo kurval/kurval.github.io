@@ -23,7 +23,7 @@ Using Alrair library for building interactive charts that are displayd with Vega
 * Travis CI
 * selenium
 
-# Running with Docker
+# Running app with Docker
 You can run this app with Dockerfile   
 
 Build the container:  
